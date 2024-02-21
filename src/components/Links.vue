@@ -70,6 +70,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Archive, 
+  Cloudscale, 
+  UserCircle
 };
 
 // 链接跳转
